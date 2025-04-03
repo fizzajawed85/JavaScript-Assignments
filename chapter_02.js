@@ -45,8 +45,7 @@ alert("I'm trying to learn from the Book " + book);
 
 // 8. Write a script to display this in browser through JS
 
-var message = "Yah! I can write HTML content through JavaScript";
-alert(message);
+document.write("Yah! I can write HTML content through JavaScript");
 
 // Store following string in a variable and show in alert and browser through JS “▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”
 

@@ -13,7 +13,7 @@ alert(`You have visited this site ${visitCount} times.`);
 // 3. Declare a variable called birthYear & assign to it your birth year. Show the following message in your browser:
 
 var birthYear = 1990;
-alert(`My birth year is ${birthYear}\nData type of my declared variable is number`);
+document.write(`My birth year is ${birthYear}\nData type of my declared variable is number`);
 
 // 4. A visitor visits an online clothing store www.xyzClothing.com . Write a script to store in variables the following information:
 // a. Visitor’s name
@@ -25,4 +25,4 @@ var visitorName = "John Doe";
 var productTitle = "T-shirt";
 var quantity = 5;
 
-alert(`${visitorName} ordered ${quantity} ${productTitle}(s) on XYZ Clothing store.`);
+document.write(`${visitorName} ordered ${quantity} ${productTitle}(s) on XYZ Clothing store.`);
