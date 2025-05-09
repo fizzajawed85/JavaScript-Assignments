@@ -1,4 +1,4 @@
-// Assignment_26-30 (MATH METHODS)
+// Assignment_26-30 -(MATH METHODS)
 
 /* 1. Write a program that takes a positive integer from user &
 display the following in your browser.
